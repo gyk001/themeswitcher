@@ -1,6 +1,7 @@
 define(function(require, exports, module) {
+	$ = require('$');
+  	var themeswitcher={};
 
-  var themeswitcher;
 
-  module.exports = themeswitcher;
+  	module.exports = themeswitcher;
 });
