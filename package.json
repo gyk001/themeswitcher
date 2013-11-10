@@ -1,0 +1,26 @@
+{
+  "family": "arale",
+  "name": "themeswitcher",
+  "version": "1.0.0",
+  "description": "web css theme switcher",
+  "homepage": "https://github.com/gyk001/themeswitcher",
+  "author": "gyk001@gmail.com",
+  "maintainers": [
+    "gyk001@gmail.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gyk001/themeswitcher.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["themeswitcher.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
